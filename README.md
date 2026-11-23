@@ -5,6 +5,64 @@ Cipher Connect is a cybersecurity-focused communication and collaboration platfo
 
 The application brings communication and workspace management together, with an emphasis on authentication, controlled access, and secure application design.
 
+## 📁 Project Structure
+
+The project is organized into separate frontend and backend components to maintain modularity and simplify development and maintenance.
+
+```text
+Cipher-Connect/
+│
+├── backend/
+│   └── cipher-connect-backend/
+│       ├── src/
+│       │   └── main/
+│       │       ├── java/
+│       │       │   └── com/cipherconnect/backend/
+│       │       │       ├── config/
+│       │       │       ├── controller/
+│       │       │       ├── model/
+│       │       │       ├── repository/
+│       │       │       ├── security/
+│       │       │       └── service/
+│       │       │
+│       │       └── resources/
+│       │           └── application.properties
+│       │
+│       └── pom.xml
+│
+├── frontend/
+│   ├── src/
+│   ├── public/
+│   ├── package.json
+│   └── ...
+│
+├── docs/
+│   └── screenshots/
+│       ├── login.png
+│       ├── dashboard.png
+│       ├── connections.png
+│       └── messaging.png
+│
+├── README.md
+└── .gitignore
+```
+
+**Directory Overview:**
+
+- `backend/` – Contains the Java Spring Boot backend.
+- `frontend/` – Contains the React frontend and user interface.
+- `src/main/java/` – Contains backend application source code.
+- `config/` – Contains application configuration and security configuration.
+- `controller/` – Handles incoming API requests.
+- `model/` – Contains application data models.
+- `repository/` – Handles database operations.
+- `security/` – Contains JWT and authentication-related components.
+- `service/` – Contains application business logic.
+- `resources/` – Contains backend configuration and resources.
+- `docs/screenshots/` – Stores application screenshots.
+- `pom.xml` – Maven project configuration.
+- `package.json` – Frontend dependencies and scripts.
+
 ## ✨ Key Features
 
 ### 1. User Authentication
