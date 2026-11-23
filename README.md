@@ -346,18 +346,8 @@ Open the local frontend URL shown in your terminal. Make sure PostgreSQL and the
 
 ---
 
-## 👩‍💻 Author
-
-<table>
-  <tr>
-    <td>
-      <b>Vedika Bhatnagar</b><br/>
-      B.E. Computer Science &amp; Engineering student, Chandigarh University<br/>
-      
-        🔗 <a href="https://github.com/vedikab29-byte">GitHub: vedikab29-byte</a>
-    </td>
-  </tr>
-</table>
+👩‍💻Author
+<table> <tr> <td> <b>Vedika Bhatnagar</b><br/> B.E. Computer Science &amp; Engineering student, Chandigarh University<br/><br/><br/> 🔗 <a href="https://github.com/vedikab29-byte">GitHub: vedikab29-byte</a> </td> </tr> </table>
 
 | | |
 |---|---|
