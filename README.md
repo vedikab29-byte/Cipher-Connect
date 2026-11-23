@@ -36,7 +36,6 @@
 - [Security Considerations](#-security-considerations)
 - [Future Enhancements](#-future-enhancements)
 - [What I Learned](#-what-i-learned)
-- [About the Author](#-about-the-author)
 
 ---
 
@@ -347,15 +346,15 @@ Open the local frontend URL shown in your terminal. Make sure PostgreSQL and the
 
 ---
 
-## 👩‍💻 About the Author
+## 👩‍💻 Author
 
 <table>
   <tr>
     <td>
       <b>Vedika Bhatnagar</b><br/>
       B.E. Computer Science &amp; Engineering student, Chandigarh University<br/>
-      Full Stack Developer (Java Full Stack internship experience)<br/><br/>
-      🔗 <a href="https://github.com/vedikab29-byte">GitHub: vedikab29-byte</a>
+      
+        🔗 <a href="https://github.com/vedikab29-byte">GitHub: vedikab29-byte</a>
     </td>
   </tr>
 </table>
@@ -372,7 +371,7 @@ Open the local frontend URL shown in your terminal. Make sure PostgreSQL and the
 
 <div align="center">
 
-⭐ *If you found this project interesting, consider giving it a star!* ⭐
+
 
 **Cipher Connect — A structured space for secure connections and collaboration.**
 
