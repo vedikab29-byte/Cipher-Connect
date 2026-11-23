@@ -81,8 +81,7 @@ The project combines a **React** frontend with a **Java Spring Boot** backend an
 - Channels for organizing discussions
 - Task management and file-sharing capabilities
 
-> [!NOTE]
-> Availability of individual features depends on what is implemented in the current version of the application.
+
 
 ---
 
@@ -179,8 +178,6 @@ flowchart LR
   <img src="docs/screenshots/messaging.png" alt="Messaging" width="85%"/>
 </p>
 
-> [!TIP]
-> Add more real screenshots to `docs/screenshots/` (for example `register.png`, `workspace.png`, `channels.png`, `tasks.png`) and reference them the same way. Real captures of your running app will make this README far more convincing than any mock-up.
 
 ---
 
@@ -263,8 +260,7 @@ CREATE DATABASE cipher_connect;
 
 Then set your connection details in the backend's `application.properties` file.
 
-> [!WARNING]
-> Use your own local database credentials. Never upload passwords or private keys to GitHub.
+
 
 ### 3️⃣ Run the Backend
 
@@ -287,8 +283,6 @@ npm install
 npm run dev
 ```
 
-> [!TIP]
-> If your project uses a different start script, use the corresponding command from `package.json`.
 
 ### 5️⃣ Open the Application
 
@@ -327,8 +321,7 @@ Open the local frontend URL shown in your terminal. Make sure PostgreSQL and the
 | **Authorization** | Role-based access control where implemented |
 | **Data** | Database-backed application data |
 
-> [!IMPORTANT]
-> Cipher Connect is designed with secure communication principles in mind. It should not be described as end-to-end encrypted unless true end-to-end message encryption has been implemented and verified.
+
 
 ---
 
