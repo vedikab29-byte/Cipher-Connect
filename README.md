@@ -221,6 +221,49 @@ Open the local frontend URL displayed in your terminal.
 
 Make sure PostgreSQL and the Spring Boot backend are running before using the application.
 
+## 📖 User Guide
+
+Follow these steps to explore and use Cipher Connect.
+
+### 1. Getting Started
+- Launch the frontend and backend.
+- Open Cipher Connect in your browser.
+- Register a new account or log in using your existing credentials.
+
+### 2. User Identification
+- Access your account and locate your unique Cipher ID.
+- Share your Cipher ID with other users to establish connections.
+
+### 3. Managing Connections
+- Navigate to the Connections section.
+- Search for other users using their Cipher ID or email address.
+- Send connection requests.
+- Accept or manage incoming connection requests.
+
+### 4. Direct Messaging
+- Open the messaging section.
+- Select an available connection.
+- Start a direct conversation.
+- Exchange messages through the messaging interface.
+
+### 5. Workspace Collaboration
+- Explore the workspace section.
+- Organize collaboration through workspaces and channels.
+- Use available task management and file-sharing features.
+
+*Note: The availability of individual features depends on the functionality implemented in the current application version.*
+
+### 6. Logging Out
+- Use the logout option to securely end your current session.
+
+## 💡 Usage Tips
+
+- Keep your login credentials private.
+- Share your Cipher ID rather than your account password.
+- Use authorized connections when communicating.
+- Log out when using a shared computer.
+- Never share sensitive information through an unverified account.
+
 ## 🔒 Security Considerations
 
 - JWT-based authentication.
